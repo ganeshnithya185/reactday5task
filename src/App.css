@@ -36,3 +36,6 @@
     transform: rotate(360deg);
   }
 }
+.notes {
+  background-color: blue;
+}
